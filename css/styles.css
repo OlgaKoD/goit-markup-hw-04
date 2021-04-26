@@ -378,7 +378,7 @@ span {
 .filter-list {
   display: flex;
   justify-content: center;
-  padding-bottom: 50px;
+  margin-bottom: 50px;
 }
 
 .filter-element:not(:last-child) {
